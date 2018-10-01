@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="movies_app">#007BAC</color>
+    <color name="white">#fff</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_600">#747474</color>
+    <color name="white_90">#e6ffffff</color>
+    <color name="risk">#F31431</color>
+
+    <color name="status_bar">#202124</color>
+    <color name="text_color_tertiary">#dadce0</color>
+    <color name="light_grey">#dbdbdb</color>
+    <color name="highlight_light">#33ffffff</color>
+    <color name="black_200">#33000000</color>
+
+</resources>
